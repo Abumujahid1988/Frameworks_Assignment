@@ -28,11 +28,6 @@ ENV/
 # But keep small sample dataset
 !sample_metadata.csv
 
-# Ignore outputs and generated files
-outputs/
-*.log
-*.tmp
-
 # ============================
 # VS Code / Editors
 # ============================
